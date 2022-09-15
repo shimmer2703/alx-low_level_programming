@@ -23,27 +23,15 @@ vi 4-isalpha.c
 
 
 int _isalpha(int c)
-
 {
+	int _isalphat(int c);
 
-		int i = isalpha(c);
-
-
-
-			if (i > 0)
-
-					{
-
-								return (1);
-
-									}
-
-				else
-
-						{
-
-									return (0);
-
-										}
-
+	if (i > 0)
+	{
+		return (1);
+	}
+	else
+	{
+		return (0);
+	}
 }
