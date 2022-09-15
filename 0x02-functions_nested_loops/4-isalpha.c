@@ -1,5 +1,3 @@
-vi 4-isalpha.c
-
 #include "main.h"
 
 #include <ctype.h>
@@ -23,15 +21,29 @@ vi 4-isalpha.c
 
 
 int _isalpha(int c)
-{
-	int _isalphat(int c);
 
-	if (i > 0)
-	{
-		return (1);
-	}
-	else
-	{
-		return (0);
-	}
+{
+
+		int i = isalpha(c);
+
+
+
+			if (i > 0)
+
+					{
+
+								return (1);
+
+									}
+
+				else
+
+						{
+
+									return (0);
+
+										}
+
 }
+
+
