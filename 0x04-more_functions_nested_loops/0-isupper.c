@@ -5,7 +5,7 @@
 
 
 /**
- * _isupper.c - function that checks for alphabetic character
+ * _isupper - function that checks for alphabetic character
  *
  * @c: return char type
  *
