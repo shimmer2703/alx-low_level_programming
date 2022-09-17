@@ -12,10 +12,16 @@
 int main(void)
 
 {
-	int i;
-
-	i=98 % 2;
-	positive_or_negetive(i);
+int i;
+printf("Infinite loop incoming :(\n");
+i = 0;
+/*
+ * while (i < 10)
+ * {
+ * putchar(i);
+ * }
+ */
+printf("Infinite loop evaded!\\o/\n");
 
 	return (0)
 }
