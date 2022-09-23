@@ -11,7 +11,7 @@ int main(void)
 	/*
 	 * wriet your line of code here...
 	 * Remember:
-	 * - you are not allowed to use a 
+	 * - you are not allowed to use a
 	 * - you are not allowd to modify p
 	 * - only one statement
 	 * - you are not allowed to code anything else than thus line of code
